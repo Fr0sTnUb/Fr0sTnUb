@@ -28,8 +28,8 @@
 
 ## 📫 How to reach me
 
-[![Gmail](https://img.shields.io/badge/-Email-black?style=flat-square)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square)](https://www.linkedin.com/in/your-linkedin/)
+[![Gmail](https://img.shields.io/badge/-Email-black?style=flat-square)](mailto:your.imrealnitesh07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square)](https://www.linkedin.com/in/nitesh-sha-a988b3276/)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square)](https://twitter.com/your-twitter)
 
 ---
